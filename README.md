@@ -47,6 +47,23 @@ Non sai usare git ma vuoi comunque far parte di questa repository? Puoi contatta
 Telegram (@alexbgtt) oppure puoi mandare una mail a <a
 href="mailto:alessandro.biagiotti@studenti.unimi.it">alessandro.biagiotti@studenti.unimi.it</a>
 
+## Struttura del file `.md`
+Magari non servirà a nulla, ma sto cercando di dare una struttura alle recensioni così da tirare
+fuori qualche informazione in più nel caso in cui si rivelasse un progetto interessante e lo si
+potesse trasformare in un sito, pertanto le informazioni richieste sono semplicemente le seguenti:
+
+- Quando è stato eseguito l'esame.
+- Chi professore ha presidiato all'esame (o in generale che professore ha tenuto il corso).
+- Consiglieresti il corso a uno studente che te lo chiedesse (risposta binaria y / n).
+
+C'è una cartella di template per la versione inglese e quella italiana, per copiare uno di questi
+file templati basta semplicemente navigare nella cartella del corso che ci interessa (o crearla
+tramite il comando `$mkdir il-mio-corso`) ed eseguire il seguente comando
+
+```
+   $cp ../templates/ita.md ./pinco-pallo.md
+```
+
 ## Roadmap
 - [ ] Creazione della repository e aggiunta di un certo numero di recensioni riguardo ai corsi.
 

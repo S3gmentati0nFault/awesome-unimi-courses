@@ -58,10 +58,10 @@ potesse trasformare in un sito, pertanto le informazioni richieste sono semplice
 
 C'è una cartella di template per la versione inglese e quella italiana, per copiare uno di questi
 file templati basta semplicemente navigare nella cartella del corso che ci interessa (o crearla
-tramite il comando `$mkdir il-mio-corso`) ed eseguire il seguente comando
+tramite il comando `$ mkdir il-mio-corso`) ed eseguire il seguente comando
 
 ```
-   $cp ../templates/ita.md ./pinco-pallo.md
+   $ cp /awesome-unimi-courses/templates/ita.md /<il-mio-corso>/pinco-pallo.md
 ```
 
 ## Roadmap

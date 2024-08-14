@@ -1,3 +1,7 @@
+[data] - 20/06/2023
+[professore] - Christian Quadri
+[consigli] - y
+
 Il professore secondo me é una cima, é giovane, é simpatico e ha anche voglia di spiegare e mettersi in gioco. Sinceramente é difficile beccare professori cosí disponibili.
 Nonostante tutto quello che spiega a volte puó risultare noioso o una vera e propria rottura, anche perché spiega usando le slide.
 

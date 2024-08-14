@@ -1,3 +1,7 @@
+[data] - 17/07/2024
+[professore] - Scacchi Simone, Fierro Francesca
+[consigli] - y
+
 Il corso è davvero molto semplice, è pensato per la triennale in chimica e quindi per i magistrali di informatica può risultare davvero molto semplice. Le lezioni sono inutili, non le ho seguite e ho letto le slide una volta, per prepararlo in modo tranquillo vi servono al massimo 2 settimane, non un giorno di più, se volete farvela un po' rushata vi ci vuole una settimana.
 
 L'esame scritto è semplicissimo, livello di geometria 1, vi potete portare dietro formulario, calcolatrice, appunti, all'edizione estiva del 2024 anche il portatile e l'ipad però sembra che la cosa stia cambiando. Comunque non vi serve avere niente di più di due fogli con le formule sopra (se avete fatto qualche esercizio), altrimenti avrete bisogno di alcuni esercizi svolti sotto mano. Comunque gli esercizi sono sempre gli stessi e l'esame va su binari.

@@ -1,3 +1,7 @@
+[data] - 20/02/2022
+[professore] - Paolo Boldi
+[consigli] - y
+
 Il corso è super figo, il professor Boldi è tanta roba ed è super disponibile.
 
 L’esame non è difficile ma prepararsi per l’esame non è particolarmente semplice.

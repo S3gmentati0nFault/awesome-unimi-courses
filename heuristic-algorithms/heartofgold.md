@@ -1,3 +1,7 @@
+[date] - 09/02/2022
+[professor] - Roberto Cordone
+[recommend] - n
+
 Final evaluation for whoever will come in the future.
 
 Heuristic algorithms is quite an interesting course, unfortunately the lectures are quite boring, although I think that Cordone is an excellent teacher and is always ready to help.

@@ -1,3 +1,7 @@
+[data] - 25/07/2023
+[professore] - Sebastiano Vigna
+[consigli] - n
+
 Il professor Vigna é indubbiamente uno dei piú fighi e chillati di tutta l'uni.
 
 L'insegnamento é molto particolare, è una raccolta di argomenti che sono connessi in qualche modo al mondo del web. Lui, per quanto sia un figo, non é in grado di spiegare le cose in maniera chiara, e le sue dispense contengono molti errori e non sono complete (infatti per altri argomenti che sono spesso richiesti all'esame bisogna andare a scartabellare e leggere articoli aggiuntivi).

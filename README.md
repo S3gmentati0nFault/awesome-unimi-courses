@@ -45,7 +45,7 @@ Anche in questo caso vi chiedo di seguire le linee guida:
 
 Non sai usare git ma vuoi comunque far parte di questa repository? Puoi contattarmi direttamente su
 Telegram (@alexbgtt) oppure puoi mandare una mail a <a
-href="mailto:alessandro.biagiotti@studenti.unimi.it">alessandro.biagiotti@studenti.unimi.it</a>
+href="mailto:alessandro.biagiotti@studenti.unimi.it">alessandro.biagiotti@studenti.unimi.it</a>.
 
 ## Struttura del file `.md`
 Magari non servirà a nulla, ma sto cercando di dare una struttura alle recensioni così da tirare
@@ -65,6 +65,8 @@ tramite il comando `$ mkdir il-mio-corso`) ed eseguire il seguente comando
 ```
 
 ## Roadmap
+- [ ] Identificare un gruppo di metriche interessanti che possono essere sfruttate a tempo debito.
+
 - [ ] Creazione della repository e aggiunta di un certo numero di recensioni riguardo ai corsi.
 
 - [ ] Creazione di un semplice sito web che sia in grado di dare una veste grafica più user-friendly

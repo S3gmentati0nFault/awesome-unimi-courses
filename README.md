@@ -33,15 +33,15 @@ contribuire a questa repository, per farlo però è necessario seguire qualche s
 Come possiamo scrivere un file `.md` contenente le nostre esperienze riguardo a un certo corso?
 Anche in questo caso vi chiedo di seguire le linee guida:
 
-1. Un minimo di 150 parole, se sono di meno la vostra recensione non sarà accettata!
+1. Il nome del file è assolutamente indifferente, ma niente insulti please!
 
-2. Niente insulti! Ci sono tanti corsi che lasciano impressioni profondamente negative,
+2. Un minimo di 150 parole, se sono di meno la vostra recensione non sarà accettata!
+
+3. Niente insulti! Ci sono tanti corsi che lasciano impressioni profondamente negative,
    ciononostante bisogna mantenere un certo standard di civiltà.
 
-3. Pensiero ragionato e organizzato, "mi piace perchè bello" o "non mi piace perchè brutto" non sono
+4. Pensiero ragionato e organizzato, "mi piace perchè bello" o "non mi piace perchè brutto" non sono
    delle valutazioni e non verranno accettate.
-
-Io chiamerei il file con il nickname dell'autore, se non ve la sentite, per questioni di privacy, potete chiamarlo come vi pare, a patto che (di nuovo) non sia un nome insultante.
 
 Non sai usare git ma vuoi comunque far parte di questa repository? Puoi contattarmi direttamente su
 Telegram (@alexbgtt) oppure puoi mandare una mail a <a

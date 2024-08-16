@@ -1,3 +1,4 @@
+\[[ENG](https://github.com/S3gmentati0nFault/awesome-unimi-courses/blob/main/README-EN.md)\]
 ## Introduzione
 Questa repo è pensata per raccogliere le recensioni di studenti che hanno già seguito il corso in
 precedenza e che vogliono lasciare un pensiero strutturato e coerente per tutti quelli che verranno

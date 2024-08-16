@@ -1,3 +1,0 @@
-[date] - 
-[professor] - 
-[recommend] - 

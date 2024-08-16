@@ -1,3 +1,0 @@
-[data] - 
-[professore] - 
-[consigli] -

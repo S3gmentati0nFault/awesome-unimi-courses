@@ -57,9 +57,15 @@ analysis.
 
 At the moment the only information required to add your entries are the following:
 
-- When did you take the exam
-- Who was the professor
-- Would you recommend this exam to anyone? (at the moment it's just a binary response)
+- When did you take the exam.
+- Who was the professor.
+- How difficult do you think the exam actually was (mark out of five, doesn't need to be a natural
+number).
+- Did you follow at least 50% of the lectures? (binary response y / n).
+- How good do you think the professor actually is? (I consider this a sum of all the
+characteristics: available, on time, makes him/her self clear, etc... Mark out of five, if the
+answer to the previous question was "n" then please put -1 as a mark for this one).
+- Would you recommend this exam to anyone? (at the moment it's just a binary response).
 
 There is a template folder where you can take the template files (there is an italian version and an
 english version), all you have to do at the end of the day is to find the folder (or create it if

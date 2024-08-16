@@ -57,7 +57,7 @@ potesse trasformare in un sito, pertanto le informazioni richieste sono semplice
 - Chi professore ha presidiato all'esame (o in generale che professore ha tenuto il corso).
 - Quanto difficile pensi sia stato l'esame? (valutazione in quinti).
 - Hai seguito almeno il 50% delle lezioni? (risposta binaria y / n)
-- Quanto pensi sia bravo il professore? (valutazione in quinti, se la risposta precedente è "n" allora in questo campo si metta -1 per favore).
+- Quanto pensi sia bravo il professore? (valutazione in quinti che dovrebbe essere una somma delle caratteristiche: puntuale, sa spiegare, disponibile, etc... Se la risposta precedente è "n" allora in questo campo si metta -1 per favore).
 - Consiglieresti il corso a uno studente che te lo chiedesse (risposta binaria y / n).
 
 C'è una cartella di template per la versione inglese e quella italiana, per copiare uno di questi

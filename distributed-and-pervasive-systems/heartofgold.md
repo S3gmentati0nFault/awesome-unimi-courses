@@ -2,12 +2,12 @@
 [professor] - Claudio Bettini
 [difficulty] - 3
 [lectures] - y
-[evaluation] - 2
+[evaluation] - 3
 [recommend] - y
 
 First of all let’s talk about the lectures, they are really boring, unfortunately, the subject is highly practical and a good deal of time is used to do theoretical things that are not all that interesting. Plus it is not really required to follow to pass the theoretical part.
 
-The lab part is interesting enough, it took me back to the real lab sessions we used to have in bachelor, when the professor asked you to do something and everyone was on his own looking for a solution that, in most cases, would be found once home with the documentation or a video open.
+The lab part is quite interesting, it took me back to the real lab sessions we used to have in bachelor, when the professor asked you to do something and everyone was on his own looking for a solution that, in most cases, would be found once home with the documentation or a video open.
 
 Nonetheless I would say that the lab was pretty cool and fairly useful to understand some of the concepts necessary to deal with the project (more about it in a minute).
 
@@ -17,7 +17,7 @@ Let’s talk about the exam.
 
 The exam is split into two parts: Theory and practice.
 
-The theory can be disposed of pretty quickly if the “preappello” is done, in case of “preappello” the exam date will be earlier than usual (in May) but it will be a written test consisting of a bunch of closed answer questions and two open questions. If you follow the lectures I think that the proposed questions will be on par (if not easier) than the questions proposed during the course.
+The theory can be disposed of pretty quickly if the “preappello” is done, in case of “preappello” the exam date will be earlier than usual (in May) but it will be a written test consisting of a bunch of closed answer questions and two open questions. If you follow the lectures I think that the proposed questions will be on par (if not easier) than the questions proposed during the course to revise the concepts.
 
 If someone is not able to attend the “preappello” will have to do the oral theory exam with professor Bettini, it should be one on one and (from what I heard) it is more challenging than the written exam.
 
@@ -33,7 +33,7 @@ Now, a couple of words of advice.
 
 2. Go to the introductory laboratory lessons if possible, if you have any doubts regarding the project, professor Arrota is going to be there, ready to help you.
 
-3. Do not be scared of the oral discussion about the project, you are going to be with professor Arrota and you will be able to discuss your choices without having the barrel of a rifle pressed on your forehead.
+3. Do not be scared of the oral discussion about the project, you are going to be with professor Arrota and you will be able to discuss your choices without having the barrel of a gun pressed on your forehead.
 
-I’m glad I have done this course (and more glad that I was able to finish it), if you have any
-questions or you need help, you can reach me via telegram as always.k
+I do think that this course of distributed systems is very good and should definitely be followed if
+you have interest in the topic.

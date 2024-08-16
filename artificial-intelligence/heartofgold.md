@@ -9,11 +9,7 @@ I did this exam back when professor Piuri held it, now that it's being held by p
 
 This exam is useless, don’t come if you expect to do anything practical, that isn’t the case and probably whatever you will study is not even up to date or even used, it’s just a random collection of stuff coming from the 80s.
 
-You have no need to follow the lectures because most of the time what he’s saying is useless or he has problems making the concept clear.
-
-I would recommend to get the book from the library so that you can understand stuff that is explained really bad in the slides.
-
-You can either read everything from the book or use the slides, they’re both good (the first is better).
+You have no need to follow the lectures because he just reads the slides and is not really helpful in making them clearer (I tried following again on the recordings some of the harder concepts and they still made little to no sense). The primary source of information should be the book, which is pretty good, but is still unable to clear some of the more obscure sections of the syllabus.
 
 The exam overall is really simple but it’s very stupid, you have to answer three very broad questions as precisely as possible (basically you have to write a whole lot). I had to do it twice to get a good mark, the first time I got 21 and the second 30L (the questions were the same in both exams).
 

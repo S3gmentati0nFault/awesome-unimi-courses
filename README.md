@@ -60,12 +60,12 @@ potesse trasformare in un sito, pertanto le informazioni richieste sono semplice
 - Quanto pensi sia bravo il professore? (valutazione in quinti che dovrebbe essere una somma delle caratteristiche: puntuale, sa spiegare, disponibile, etc... Se la risposta precedente è "n" allora in questo campo si metta -1 per favore).
 - Consiglieresti il corso a uno studente che te lo chiedesse (risposta binaria y / n).
 
-C'è una cartella di template per la versione inglese e quella italiana, per copiare uno di questi
-file templati basta semplicemente navigare nella cartella del corso che ci interessa (o crearla
-tramite il comando `$ mkdir il-mio-corso`) ed eseguire il seguente comando
+Alla fine della fiera tutto quello che dovete fare per contribuire è trovare la cartella associata
+al corso di vostro interesse (o crearla
+tramite il comando `$ mkdir <il-mio-corso>`) ed eseguire il seguente comando
 
 ```
-   $ cp /awesome-unimi-courses/templates/ita.md /<il-mio-corso>/pinco-pallo.md
+   $ cp /awesome-unimi-courses/template.md /<il-mio-corso>/pinco-pallo.md
 ```
 
 ## Roadmap

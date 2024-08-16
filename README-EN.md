@@ -67,12 +67,10 @@ characteristics: available, on time, makes him/her self clear, etc... Mark out o
 answer to the previous question was "n" then please put -1 as a mark for this one).
 - Would you recommend this exam to anyone? (at the moment it's just a binary response).
 
-There is a template folder where you can take the template files (there is an italian version and an
-english version), all you have to do at the end of the day is to find the folder (or create it if
-necessary by `$ mkdir my-course$`) and execute the following command
+All you have to do, at the end of the day, is to find the folder associated with your course (or create it if necessary by `$ mkdir <my-course>`) and execute the following command
 
 ```
-   $ cp /awesome-unimi-courses/templates/eng.md /<my-course>/42.md
+   $ cp /awesome-unimi-courses/template.md /<my-course>/42.md
 ```
 
 ## Roadmap

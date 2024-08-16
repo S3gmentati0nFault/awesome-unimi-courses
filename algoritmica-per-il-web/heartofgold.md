@@ -1,6 +1,9 @@
-[data] - 25/07/2023
-[professore] - Sebastiano Vigna
-[consigli] - n
+[date] - 25/07/2023
+[professor] - Sebastiano Vigna
+[difficulty] - 3
+[lectures] - n
+[evaluation] - -1
+[recommend] - n
 
 Il professor Vigna é indubbiamente uno dei piú fighi e chillati di tutta l'uni.
 

@@ -1,4 +1,9 @@
-[data] 15/08/2024 - [professore]  Giovanni Righini- [consigli] - y
+[date] - 15/08/2024  
+[professor] - Giovanni Righini 
+[difficulty] - 3
+[lectures] - y
+[evaluation] - 4.5
+[recommend] - y
 Ottimizzazione combinatoria (o come si chiamerà il corso tra qualche anno) è un ottimo corso se vi interessa approfondire algoritmi polinomiali, e lo possiamo vedere come un proseguo di un corso triennale di Algoritmi e strutture dati.
 
 Il corso, seppur inizia un po'lentamente (spiegazione di alberi, ricerche,etc.) in poco tempo, grazie anche al professore, diventa molto veloce e interessante, passando velocemente oltre ad algoritmi già conosciuti e cominciando a presentare varianti e/o nuovi punti di vista (usando le slide, ma senza a volte potrebbe essere difficile starci dietro).

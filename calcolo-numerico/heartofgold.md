@@ -1,5 +1,8 @@
 [data] - 17/07/2024
 [professore] - Scacchi Simone, Fierro Francesca
+[difficulty] - 1
+[lectures] - n
+[evaluation] - -1
 [consigli] - y
 
 Il corso è davvero molto semplice, è pensato per la triennale in chimica e quindi per i magistrali di informatica può risultare davvero molto semplice. Le lezioni sono inutili, non le ho seguite e ho letto le slide una volta, per prepararlo in modo tranquillo vi servono al massimo 2 settimane, non un giorno di più, se volete farvela un po' rushata vi ci vuole una settimana.

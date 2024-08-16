@@ -1,5 +1,8 @@
 [date] - 22/01/2023
 [professor] - Vincenzo Piuri
+[difficulty] - 1
+[lectures] - y
+[evaluation] - 2
 [recommend] - n
 
 I did this exam back when professor Piuri held it, now that it's being held by professor Genovese I am being told that nothing really changed and maybe it got a little harder.

@@ -1,6 +1,9 @@
-[data] - 29/09/2023
-[professore] - Massimiliano Goldwurm
-[consigli] - y
+[date] - 29/09/2023
+[professor] - Massimiliano Goldwurm
+[difficulty] - 4.5
+[lectures] - y
+[evaluation] - 5
+[recommend] - y
 
 Il professore è un super-tatone, è preciso ma comprensivo con gli studenti e gli fa sempre piacere vedere che qualcuno ha a cuore il suo corso e quello che insegna, è bravo a spiegare, anche se a volte fa un po' di casino.
 

@@ -1,6 +1,9 @@
-[data] - 20/02/2022
-[professore] - Paolo Boldi
-[consigli] - y
+[date] - 20/02/2022
+[professor] - Paolo Boldi
+[difficulty] - 4
+[lectures] - y
+[evaluation] - 4
+[recommend] - y
 
 Il corso è super figo, il professor Boldi è tanta roba ed è super disponibile.
 

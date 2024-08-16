@@ -1,5 +1,8 @@
 [date] - 09/02/2022
 [professor] - Roberto Cordone
+[difficulty] - 2
+[lectures] - n
+[evaluation] - -1
 [recommend] - n
 
 Final evaluation for whoever will come in the future.

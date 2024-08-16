@@ -1,6 +1,9 @@
-[data] - 27/06/2024
-[professore] - Massimiliano Goldwurm
-[consigli] - y
+[date] - 27/06/2024
+[professor] - Massimiliano Goldwurm
+[difficulty] - 4.5
+[lectures] - y
+[evaluation] - 5
+[recommend] - y
 
 Il professore è figo, può apparire noioso a lezione ma il modo in cui spiega è davvero ottimo, scrive tutto, spiega tutto, dimostra tutto e pretende la stessa precisione da voi.
 

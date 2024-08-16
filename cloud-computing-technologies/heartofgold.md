@@ -1,5 +1,8 @@
 [date] - 25/07/2024
 [professor] - Claudio Ardagna, Marco Anisetti
+[difficulty] - 2
+[lectures] - y
+[evaluation] - 3
 [recommend] - n
 
 I had already taken the theory in 2023 and the lectures were boring as hell, useless as all hell and there was essentially nothing that could be taken from them, both professors are basically machine learning models that turn written text into sounds. There is also a PhD that handles the lab part (if it can be called lab) and basically you just see this guy doing things for hours on end, don't know if it changed with the 2024 edition but it was still unbearable.

@@ -1,5 +1,8 @@
 [date] - 18/09/2023
 [professor] - Claudio Bettini
+[difficulty] - 3
+[lectures] - y
+[evaluation] - 2
 [recommend] - y
 
 First of all let’s talk about the lectures, they are really boring, unfortunately, the subject is highly practical and a good deal of time is used to do theoretical things that are not all that interesting. Plus it is not really required to follow to pass the theoretical part.
